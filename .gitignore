@@ -1,0 +1,4 @@
+.idea
+target
+src/main/resources/settings.properties
+src/main/resources/hierarchy.txt
